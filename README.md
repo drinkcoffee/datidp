@@ -5,7 +5,7 @@ distributed large language model (LLM).
 
 
 How this protocol fits into the broader decentralised AI training problem space is discussed on the [known-challenges](./known-challenges.md) page.
- 
+
 
 ## Requirements
 
@@ -18,13 +18,14 @@ The protocol should allow for:
 * Identify and fine free loaders.
 * Incentivise low churn - slash early exit
 * Incentivise based on number of nodes / node density at a certain part / arc of the number zone
-
+* Provide an integration to multiple [decentralised learning model projects](./candidate-projects.md). Initial integration will be hivemind.
 
 
 Questions:
 
 * Should people be allowed to choose where they land, and hence which data they host, or should they be algorithmically pushed to certain parts of the data holdering.
 * How to check if multiple of same company. Maybe force signing of org of an address.
+
 
 
 
